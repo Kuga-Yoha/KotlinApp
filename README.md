@@ -1,2 +1,2 @@
 # KotlinApp
-Android Login App in Kotin 
+Android Login App in Kotlin 
